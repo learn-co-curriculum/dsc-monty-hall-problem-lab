@@ -23,4 +23,4 @@ This is not a traditional application of Bayes' Theorem, so trying to formulate 
 
 ## Summary
 
-In this lab you further investigated the idea of Bayes' Theorem and Bayesian statistics in general through the Monty Hall problem. Hopefully this was an entertaining little experience! 
+In this lab, you further investigated the idea of Bayes' Theorem and Bayesian statistics in general through the Monty Hall problem. Hopefully, this was an entertaining little experience! 

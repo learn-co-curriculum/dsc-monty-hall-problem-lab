@@ -64,4 +64,4 @@ print('Chance of Winning Switching Selected Door: ', np.mean(switch))
 
 ## Summary
 
-In this lab you further investigated the idea of Bayes' Theorem and Bayesian statistics in general through the Monty Hall problem. Hopefully this was an entertaining little experience! 
+In this lab, you further investigated the idea of Bayes' Theorem and Bayesian statistics in general through the Monty Hall problem. Hopefully, this was an entertaining little experience! 

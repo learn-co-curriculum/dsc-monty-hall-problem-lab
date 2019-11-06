@@ -11,7 +11,7 @@ The Monty Hall problem is a famous little puzzle from a game show. It goes like 
 
 In this lab you will:
 
-- Use Bayes theorem along with a simulation to solve the Monty Hall problem
+- Use Bayes' theorem along with a simulation to solve the Monty Hall problem
 
 ## Run a simulation
 
